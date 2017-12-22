@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about-us/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+AccFin Services started out, from a need to solve the problem of writing and maintaining accounts for small and medium sized businesses, non-profit organizations, co-operative housing societies, and pretty much any small enterprise that requires to keep its books.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+As India leaps into the future with the implementation of GST, we at AccFin Services are there to assist you as you adjust your businesses and help out with balancing the books and keeping the day to day accounts for your businesses. We understand that hiring staff in-house can be inconvenient. We aim to solve all your accounting worries, so you are fully prepared for when tax submission deadline is near.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+We are proud of the measures we take to maintain privacy and confidentiality of the financial data of our happy customers.
+
+You can reach us on Facebook, WhatsApp and by email. We hope to serve you soon!
